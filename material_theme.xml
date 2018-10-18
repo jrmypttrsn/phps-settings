@@ -7,8 +7,10 @@
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
     <option name="settingsSelectedTab" value="1" />
     <option name="userId" value="-609af212:165f7411237:-8000" />
     <option name="allowDataCollection" value="true" />
