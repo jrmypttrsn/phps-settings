@@ -1,0 +1,44 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/datatables.net" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-autofill" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-buttons" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-colreorder" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-fixedheader" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-rowgroup" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-rowreorder" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-scroller" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/datatables.net-select" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
